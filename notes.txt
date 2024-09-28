@@ -1,0 +1,7 @@
+start by divind the site in multiple sections.
+
+// added a script tag which came from fontawesome site for icon pack
+
+// from google fonts selected robot and popping 400 and 700 fonts.
+
+// css peeper -> chrome extension which fetches us images used in that site. kept in assets
